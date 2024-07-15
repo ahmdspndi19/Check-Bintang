@@ -1,0 +1,73 @@
+[{
+        "nama": "Capricorn",
+        "sifat": "Bertanggung jawab, disiplin, pengendalian diri",
+        "jodoh": "Taurus, Virgo",
+        "khodam": "Khodam Capricorn adalah Gunungan Pahala, membantu mencapai tujuan hidup dan membangun ketahanan spiritual."
+    },
+    {
+        "nama": "Aquarius",
+        "sifat": "Progresif, original, mandiri",
+        "jodoh": "Gemini, Libra",
+        "khodam": "Khodam Aquarius adalah Dewi Kala Rau, menginspirasi kreativitas dan memberikan pandangan dalam menghadapi tantangan."
+    },
+    {
+        "nama": "Pisces",
+        "sifat": "Penuh kasih, artistik, lembut",
+        "jodoh": "Cancer, Scorpio",
+        "khodam": "Khodam Pisces adalah Dewi Sri, membawa kedamaian batin dan memperkuat intuisi spiritual."
+    },
+    {
+        "nama": "Aries",
+        "sifat": "Berani, bertekad, percaya diri",
+        "jodoh": "Leo, Sagittarius",
+        "khodam": "Khodam Aries adalah Dewa Pusaka, memberikan keberanian dan keteguhan untuk mencapai tujuan dengan tekad yang kuat."
+    },
+    {
+        "nama": "Taurus",
+        "sifat": "Handal, sabar, praktis",
+        "jodoh": "Virgo, Capricorn",
+        "khodam": "Khodam Taurus adalah Penguasa Hidup, membantu mempertahankan stabilitas dan memperkaya kekayaan spiritual."
+    },
+    {
+        "nama": "Gemini",
+        "sifat": "Mudah beradaptasi, ekstrovert, cerdas",
+        "jodoh": "Libra, Aquarius",
+        "khodam": "Khodam Gemini adalah Dewi Saraswati, meningkatkan komunikasi dan membuka wawasan luas."
+    },
+    {
+        "nama": "Cancer",
+        "sifat": "Emosional, intuitif, protektif",
+        "jodoh": "Scorpio, Pisces",
+        "khodam": "Khodam Cancer adalah Nyi Roro Kidul, memberikan perlindungan emosional dan menguatkan ikatan keluarga."
+    },
+    {
+        "nama": "Leo",
+        "sifat": "Murah hati, ceria, penuh gairah",
+        "jodoh": "Aries, Sagittarius",
+        "khodam": "Khodam Leo adalah Dewa Matahari, memberikan kebanggaan dan memupuk semangat kepemimpinan."
+    },
+    {
+        "nama": "Virgo",
+        "sifat": "Setia, analitis, baik hati",
+        "jodoh": "Taurus, Capricorn",
+        "khodam": "Khodam Virgo adalah Dewi Pertiwi, membantu dalam pemecahan masalah dan mempertajam intelektualitas."
+    },
+    {
+        "nama": "Libra",
+        "sifat": "Kooperatif, diplomatis, anggun",
+        "jodoh": "Gemini, Aquarius",
+        "khodam": "Khodam Libra adalah Dewa Aditya, membawa keseimbangan dalam hubungan dan mendorong keharmonisan sosial."
+    },
+    {
+        "nama": "Scorpio",
+        "sifat": "Pandai mencari solusi, berani, penuh gairah",
+        "jodoh": "Cancer, Pisces",
+        "khodam": "Khodam Scorpio adalah Ratu Kidul, memberikan kekuatan spiritual dan membantu mengatasi rintangan hidup."
+    },
+    {
+        "nama": "Sagittarius",
+        "sifat": "Murah hati, idealis, humoris",
+        "jodoh": "Aries, Leo",
+        "khodam": "Khodam Sagittarius adalah Dewa Penguasa Langit, memberikan semangat petualangan dan membuka jalan menuju visi yang lebih tinggi."
+    }
+]
